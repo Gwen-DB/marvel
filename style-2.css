@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Josefin+Sans:wght@700&display=swap');
+
+body { 
+    background-color: black;
+    background-image: url("hbIy0p6z_4xo.png");
+    background-size:     cover;                    
+    background-repeat:   no-repeat;
+    background-position: center center; 
+
+    
+
+}
+
+p1 {
+    font-family: 'Barlow', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 70px;
+text-align: left;
+position: relative;
+top: 250px;
+left: 240px;
+}
+p2 {
+    font-family: 'Barlow', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 70px;
+text-align: left;
+position: relative;
+top: 340px;
+left: -100px;
+}

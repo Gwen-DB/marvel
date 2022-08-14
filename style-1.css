@@ -1,0 +1,79 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+
+
+
+body { 
+  background-color: black;
+  background-image: url("459806.png");
+  background-size: cover;
+
+
+  display: flex;
+  justify-content:center;
+align-items:center;
+flex-direction: column  
+} 
+
+#marvellogo {
+  
+  border-radius: 20px;
+  padding: 130px;
+  width: 520px;
+  height: 140px; 
+  
+align-items: center;
+margin-top: 60px;
+  left: 300px; 
+  right:300px;
+  top: -20px; 
+  bottom:200px;
+  
+
+  
+}
+p1 {
+  font-family: 'Barlow', sans-serif;
+  
+
+  position: relative;
+  font-size: 28px;
+  margin-top: -70px;
+  
+
+
+}
+
+
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 18px 27px;
+  text-align: center;
+  
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+ 
+  cursor: pointer;
+  
+  transition-duration: 0.3s;
+ 
+  
+  
+}
+
+.button2 {
+  background-color: transparent; 
+  color: rgb(255, 255, 255); 
+  border: 2px solid #a8ada9;
+  margin-top: 34px;
+}
+.button:hover {
+   background-color: rgb(255, 255, 255);
+   
+}
+
+
